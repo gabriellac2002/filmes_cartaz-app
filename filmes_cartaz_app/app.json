@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "filmes_cartaz_app",
+    "slug": "filmes_cartaz_app",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
